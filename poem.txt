@@ -6,6 +6,7 @@ orange
 red
 yellow
 green
+blue
 white
 Green
 yellow
